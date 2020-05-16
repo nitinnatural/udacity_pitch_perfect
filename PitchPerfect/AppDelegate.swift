@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PitchPerfect
 //
-//  Created by Ranjan Kumar on 08/05/20.
+//  Created by Nitin Anand on 08/05/20.
 //  Copyright © 2020 tintin. All rights reserved.
 //
 
